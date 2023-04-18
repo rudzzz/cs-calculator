@@ -9,9 +9,13 @@
 ## How it works
 
 <p align="justify">
+
     Enter the first number in the left input field.
+    
     Enter the second number in the right input field.
+    
     Select an arithmetic operation (+, -, *, /).
+    
     The result will be displayed in the console.
 </p>
 
